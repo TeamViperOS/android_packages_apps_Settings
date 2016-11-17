@@ -32,5 +32,9 @@
 
   <!-- RAM: Memory Info -->
   <string name="mem_info">RAM</string>
-  
+
+  <!-- Quick unlock -->
+  <string name="unlock_quick_unlock_control_title">Desbloqueio rápido</string>
+  <string name="unlock_quick_unlock_control_summary">Desbloquear automaticamente quando o PIN/Senha correto é inserido</string>
+
 </resources>
