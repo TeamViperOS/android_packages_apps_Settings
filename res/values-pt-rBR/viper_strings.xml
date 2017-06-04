@@ -37,4 +37,9 @@
   <string name="unlock_quick_unlock_control_title">Desbloqueio rápido</string>
   <string name="unlock_quick_unlock_control_summary">Desbloquear automaticamente quando o PIN/Senha correto é inserido</string>
 
+    <!-- Menu label for reset the battery stats -->
+    <string name="menu_stats_reset">Reiniciar estatísticas</string>
+    <!-- Reset stats confirmation dialog's message -->
+    <string name="reset_stats_msg">As estatísticas da bateria serão reiniciadas</string>
+	
 </resources>
